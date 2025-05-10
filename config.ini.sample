@@ -1,0 +1,10 @@
+[MusicTagger]
+; General settings
+log_level = INFO
+
+[Folders]
+; Format: folder_path = artist_name
+; You can add as many folders as you need
+C:\Your\Music\Project1 = Artist Name 1
+C:\Your\Music\Project2 = Artist Name 2
+C:\Your\Music\Project3 = Artist Name 3

@@ -1,0 +1,13 @@
+watchdog==3.0.0
+mutagen==1.47.0
+tinytag==2.1.0
+pydub==0.25.1
+pywin32==306; platform_system == "Windows"
+PyQt5==5.15.9
+qt-material==2.14
+
+# Packaging dependencies
+pyinstaller==6.3.0
+
+# Optional dependency (requires TagLib C++ library to be installed)
+# pytaglib==2.0.0

@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Installers and packages
+*.exe
+*.zip
+*.msi
+*.bin
+*.dmg
+*.deb
+*.rpm
+
+# Allow specific distributions
+!dist/*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# User-specific files
+config.ini
+
+# Windows service specific
+*.exe

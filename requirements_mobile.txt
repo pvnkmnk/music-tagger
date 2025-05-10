@@ -1,0 +1,6 @@
+kivy==2.2.1
+kivymd==1.1.1
+watchdog==3.0.0
+mutagen==1.47.0
+tinytag==2.1.0
+buildozer==1.5.0  # For packaging Android apps
