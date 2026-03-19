@@ -1,6 +1,6 @@
 watchdog==3.0.0
 mutagen==1.47.0
-tinytag==2.1.0
+tinytag==2.2.1
 pydub==0.25.1
 pywin32==306; platform_system == "Windows"
 PyQt5==5.15.9
