@@ -1,5 +1,9 @@
 # Music Tagger
 
+> **Portfolio status:** Maintenance personal utility. Preserve this tool for a concrete local watched-folder tagging workflow; it has no standing feature roadmap.
+>
+> **Reactivation condition:** Revisit only when the owner needs its existing local tagging behavior and is willing to validate it against the current music-library safety boundary. Otherwise retain it as a readable reference rather than expanding or rewriting it.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive application that automatically tags music files with the correct artist name when they're created in or moved to watched folders. Available in multiple versions: console, GUI (Windows/Mac/Linux), and mobile (Android/iOS).
